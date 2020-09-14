@@ -14,8 +14,8 @@ Hi，这里不愉悦别人，也不愉悦自己。“每天一个小问题”，
 
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/wugaoliang1116"><img src="https://avatars3.githubusercontent.com/u/24740506?s=460&u=9b8c0af0cb52653518060185f01e3c5e970007b2&v=4" width="100px;" style="border-radius: 50px"><br /><sub><b>Glean Wu</b></sub></a><br /></a></td>
-    <td align="center"><a href="https://github.com/li-shuaishuai"><img src="https://avatars2.githubusercontent.com/u/20487014?s=460&u=5af71d67e02d53343d5432cc8f32243854c6de21&v=4" width="100px;" style="border-radius: 50px"><br /><sub><b>木子朗</b></sub></a><br /></a></td>
-    <td align="center"><a href="https://github.com/wlin00"><img src="https://avatars1.githubusercontent.com/u/48883217?s=460&u=ad6dde84c115ae11b4e0263991d5e818058a99b6&v=4" width="100px;" style="border-radius: 50px"><br /><sub><b>wlin</b></sub></a><br /></a></td>
+    <td align="center"><a href="https://github.com/wugaoliang1116"><img src="https://avatars3.githubusercontent.com/u/24740506?s=460&u=9b8c0af0cb52653518060185f01e3c5e970007b2&v=4" style="border-radius: 50px; width: 100px"><br /><sub><b>Glean Wu</b></sub></a><br /></a></td>
+    <td align="center"><a href="https://github.com/li-shuaishuai"><img src="https://avatars2.githubusercontent.com/u/20487014?s=460&u=5af71d67e02d53343d5432cc8f32243854c6de21&v=4" style="border-radius: 50px width: 100px"><br /><sub><b>木子朗</b></sub></a><br /></a></td>
+    <td align="center"><a href="https://github.com/wlin00"><img src="https://avatars1.githubusercontent.com/u/48883217?s=460&u=ad6dde84c115ae11b4e0263991d5e818058a99b6&v=4" style="border-radius: 50px width: 100px"><br /><sub><b>wlin</b></sub></a><br /></a></td>
   </tr>
 </table>
