@@ -1,0 +1,28 @@
+{
+  "name": "issue-tools",
+  "version": "0.0.0",
+  "description": "create issue tools",
+  "author": "lishuaishuai <lishuaishuai.0509@bytedance.com>",
+  "homepage": "https://github.com/always-on-the-road/one-question-per-day#readme",
+  "license": "ISC",
+  "main": "lib/issue-tools.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "registry": "http://bnpm.byted.org/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/always-on-the-road/one-question-per-day.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/always-on-the-road/one-question-per-day/issues"
+  }
+}
