@@ -2,7 +2,7 @@
   "name": "issue-tools",
   "version": "0.0.0",
   "description": "create issue tools",
-  "author": "lishuaishuai <lishuaishuai.0509@bytedance.com>",
+  "author": "lishuaishuai <lishuaishuai.it@gmail.com>",
   "homepage": "https://github.com/always-on-the-road/one-question-per-day#readme",
   "license": "ISC",
   "main": "lib/issue-tools.js",
@@ -12,9 +12,6 @@
   "files": [
     "lib"
   ],
-  "publishConfig": {
-    "registry": "http://bnpm.byted.org/"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/always-on-the-road/one-question-per-day.git"
