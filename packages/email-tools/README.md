@@ -1,11 +1,10 @@
-# `email-tools`
+# email-tools
 
-> TODO: description
+定期将 issue 以邮件形式发送到作者邮箱
 
 ## Usage
 
 ```
-const emailTools = require('email-tools');
-
-// TODO: DEMONSTRATE API
+npm i
+npm run build
 ```
